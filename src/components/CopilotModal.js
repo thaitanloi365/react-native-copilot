@@ -7,7 +7,8 @@ import {
   NativeModules,
   Modal,
   StatusBar,
-  Platform
+  Platform,
+  Dimensions
 } from "react-native";
 import Tooltip from "./Tooltip";
 import StepNumber from "./StepNumber";
